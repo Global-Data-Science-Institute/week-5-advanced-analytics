@@ -37,11 +37,6 @@ By the end of this lab, you will:
 
 ---
 
-## 📅 Due Date
-
-> Sunday, June 9 by 11:59 PM
-
----
 
 ## 📎 Resources
 
